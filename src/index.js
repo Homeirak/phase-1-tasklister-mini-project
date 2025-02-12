@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+//document.addEventListener("DOMContentLoaded", () => {
   //Deliverables:
 //User should be able to type a task into the input field.
 //User should be able to click some form of a submit button.
